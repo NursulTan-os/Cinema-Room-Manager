@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Cinema_Room_Manager.Topics-Branching_statements-Even_or_odd.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Cinema_Room_Manager.Topics-Branching_statements-Even_or_odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Cinema_Room_Manager.Topics-Branching_statements-Even_or_odd.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Cinema_Room_Manager.Topics-Branching_statements-Even_or_odd.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Cinema_Room_Manager.Topics-Branching_statements-Even_or_odd.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Cinema_Room_Manager.Topics-Branching_statements-Even_or_odd.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The (un)-ordered sequence/Cinema_Room_Manager.Topics-Branching_statements-The__un_-ordered_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The (un)-ordered sequence/Cinema_Room_Manager.Topics-Branching_statements-The__un_-ordered_sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The (un)-ordered sequence/Cinema_Room_Manager.Topics-Branching_statements-The__un_-ordered_sequence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The (un)-ordered sequence/Cinema_Room_Manager.Topics-Branching_statements-The__un_-ordered_sequence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The (un)-ordered sequence/Cinema_Room_Manager.Topics-Branching_statements-The__un_-ordered_sequence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The (un)-ordered sequence/Cinema_Room_Manager.Topics-Branching_statements-The__un_-ordered_sequence.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Cinema_Room_Manager.Topics-Branching_statements-The_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Cinema_Room_Manager.Topics-Branching_statements-The_sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Cinema_Room_Manager.Topics-Branching_statements-The_sequence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Cinema_Room_Manager.Topics-Branching_statements-The_sequence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Cinema_Room_Manager.Topics-Branching_statements-The_sequence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Cinema_Room_Manager.Topics-Branching_statements-The_sequence.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Cinema_Room_Manager.Topics-Branching_statements-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Cinema_Room_Manager.Topics-Branching_statements-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Cinema_Room_Manager.Topics-Branching_statements-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Cinema_Room_Manager.Topics-Branching_statements-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Cinema_Room_Manager.Topics-Branching_statements-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Cinema_Room_Manager.Topics-Branching_statements-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
